@@ -1,0 +1,1 @@
+# 8th-Sem-PSCS_343-crop-disease-prediction-and-management-system
